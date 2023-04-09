@@ -1,1 +1,1 @@
-https://mern-stack-email-verification-login-app-frontend.onrender.com
+https://mern-stack-email-verification-login-app.onrender.com
